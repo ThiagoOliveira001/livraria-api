@@ -1,8 +1,8 @@
 {
   "name": "livraria-api",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "API Para manipulação de livros",
+  "author": "Thiago Silva de Oliveira",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
